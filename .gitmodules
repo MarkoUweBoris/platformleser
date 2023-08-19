@@ -1,0 +1,3 @@
+[submodule "wh_lib"]
+	path = wh_lib
+	url = ./wh_lib
