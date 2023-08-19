@@ -1,5 +1,6 @@
 Bibliothek
 Hallo
-Ich mache eine Änderung an der Bibliothek
-lokale Änderung
-
+lokale Änderung 1
+lokale Änderung 2
+Remote Änderung 1
+Remote Änderung 2
